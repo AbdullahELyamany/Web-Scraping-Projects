@@ -1,0 +1,151 @@
+Coin Name,abbreviation,Price in relation to the dollar,The rate high or low in last 24 hours
+Bitcoin,BTC,"$30,367.36",-0.57%
+Ethereum,ETH,"$1,873.92",-1.47%
+Binance Coin,BNB,$238.14,-0.09%
+XRP,XRP,$0.47873031,-1.32%
+Cardano,ADA,$0.28182400,-3.21%
+Dogecoin,DOGE,$0.06515413,-1.79%
+Tron,TRX,$0.07447921,1.42%
+Solana,SOL,$16.59,-2.58%
+Litecoin,LTC,$88.22,-0.09%
+Polkadot,DOT,$5.09,-1.80%
+Polygon,MATIC,$0.65469963,-1.69%
+Wrapped Bitcoin,WBTC,"$30,306.53",-0.74%
+Avalanche,AVAX,$13.28,-1.47%
+Shiba Inu,SHIB,$0.00000758,-2.90%
+Bitcoin Cash,BCH,$220.30,12.50%
+Binance USD,BUSD,$0.99890799,-0.05%
+Uniswap,UNI,$5.29,-3.01%
+Chainlink,LINK,$6.18,-0.67%
+Monero,XMR,$167.83,1.22%
+Cosmos,ATOM,$9.31,-0.70%
+Ethereum Classic,ETC,$18.45,0.95%
+Stellar,XLM,$0.09376800,2.01%
+Internet Computer,ICP,$4.31,-0.40%
+Filecoin,FIL,$4.02,-1.03%
+Lido DAO,LDO,$1.97,1.09%
+Hedera,HBAR,$0.05067986,-0.69%
+Quant,QNT,$106.82,0.24%
+Aptos,APT,$7.38,-2.52%
+Arbitrum,ARB,$1.20,2.67%
+Crypto.com,CRO,$0.05622083,-2.75%
+NEAR Protocol,NEAR,$1.47,-6.54%
+VeChain,VET,$0.01826299,1.69%
+Stacks,STX,$0.72091246,-5.52%
+Paxos Dollar,USDP,$0.99691739,-0.36%
+The Graph,GRT,$0.10932077,-1.92%
+Algorand,ALGO,$0.12824421,-3.42%
+Aave,AAVE,$64.22,-2.13%
+Elrond,EGLD,$33.60,-1.61%
+Fantom,FTM,$0.30760933,-2.92%
+Optimism,OP,$1.33,-1.36%
+ApeCoin,APE,$2.33,-3.20%
+EOS,EOS,$0.71760000,-2.53%
+The Sandbox,SAND,$0.42608085,-1.85%
+Immutable X,IMX,$0.75158389,2.67%
+Tezos,XTZ,$0.80209700,-2.39%
+Theta,THETA,$0.74039015,-1.53%
+Decentraland,MANA,$0.38783715,-0.08%
+Bitcoin SV,BSV,$36.65,0.12%
+Synthetix,SNX,$2.14,-1.03%
+Axie Infinity,AXS,$5.82,0.62%
+Gala,GALA,$0.02577493,-2.89%
+NEO,NEO,$8.85,-1.49%
+Maker,MKR,$690.40,-0.77%
+Injective Protocol,INJ,$7.67,7.05%
+Curve DAO Token,CRV,$0.68559018,-2.32%
+Kava.io,KAVA,$0.97935296,-6.28%
+Flow,FLOW,$0.53742551,-2.29%
+Luna Classic,LUNC,$0.00009136,0.02%
+IOTA,IOTA,$0.18422061,1.74%
+PAX Gold,PAXG,"$1,910.48",0.24%
+Mina,MINA,$0.49556202,0.18%
+eCash,XEC,$0.00002348,-1.01%
+BitTorrent,BTT,$0.00000048,-1.84%
+Chiliz,CHZ,$0.07774083,-1.28%
+Dash,DASH,$35.72,1.40%
+Trust Wallet Token,TWT,$0.90561893,-1.96%
+Woo Network,WOO,$0.21433296,0.55%
+Nexo,NEXO,$0.63528939,-1.47%
+dYdX,DYDX,$2.01,2.98%
+Zilliqa,ZIL,$0.02023131,-1.32%
+PancakeSwap,CAKE,$1.55,-0.99%
+BLUR,BLUR,$0.41920000,18.95%
+THORChain,RUNE,$0.99690148,-0.68%
+Flare,FLR,$0.01579585,-3.22%
+Loopring,LRC,$0.23462429,-1.80%
+Enjin,ENJ,$0.28998398,-2.76%
+Basic Attention Token,BAT,$0.19447400,-0.37%
+Mask Network,MASK,$3.51,-2.63%
+Convex Finance,CVX,$3.66,-2.62%
+Compound,COMP,$38.46,3.48%
+FLOKI,FLOKI,$0.00002615,-2.68%
+NEM,XEM,$0.02872352,-1.93%
+Illuvium,ILV,$46.41,-2.03%
+Zcash,ZEC,$29.99,-0.98%
+Qtum,QTUM,$2.43,1.14%
+Holo,HOT,$0.00140175,-1.52%
+Oasis Network,ROSE,$0.04928159,-3.40%
+Fetch.ai,FET,$0.22549791,-2.68%
+Bitcoin Gold,BTG,$13.42,6.44%
+Celo,CELO,$0.46844884,-4.36%
+Baby Doge Coin,BABYDOGE,$0.00000000,0.19%
+Ethereum Name Service,ENS,$8.95,-0.52%
+Ravencoin,RVN,$0.01937814,-1.07%
+Stepn,GMT,$0.22655869,-2.84%
+Kusama,KSM,$25.10,-0.32%
+EthereumPoW,ETHW,$2.06,-2.16%
+Decred,DCR,$14.46,0.82%
+JasmyCoin,JASMY,$0.00448274,-0.20%
+Yearn Finance,YFI,"$6,424.61",-1.70%
+SXP,SXP,$0.37129972,0.16%
+Waves,WAVES,$2.07,0.19%
+ICON,ICX,$0.21399272,-2.07%
+Audius,AUDIO,$0.19002621,-1.45%
+Ankr,ANKR,$0.02432166,-2.26%
+Terra 2.0/LUNA,LUNA,$0.65432261,-0.54%
+IoTeX,IOTX,$0.01965710,-2.52%
+0x,ZRX,$0.21011533,2.04%
+Helium,HNT,$1.23,-2.86%
+Moonbeam,GLMR,$0.26266404,-3.76%
+SafePal,SFP,$0.46650263,0.02%
+Band Protocol,BAND,$1.29,0.14%
+Aragon,ANT,$3.99,-0.90%
+Wax,WAXP,$0.04755433,-2.34%
+Harmony,ONE,$0.01282360,-1.74%
+Siacoin,SC,$0.00301256,-3.45%
+Joe,JOE,$0.41087933,0.33%
+Ribbon Finance,RBN,$0.18105481,-0.62%
+Sushiswap,SUSHI,$0.68487904,-0.18%
+Skale,SKL,$0.02798803,-0.96%
+TerraUSD,UST,$0.01290224,4.95%
+Braintrust,BTRST,$0.50783944,-3.89%
+Synapse,SYN,$0.66350908,-2.60%
+Livepeer,LPT,$4.42,-0.03%
+Gains Network,GNS,$4.00,-1.94%
+Stargate Finance,STG,$0.59429555,-2.92%
+Lisk,LSK,$0.82044337,-0.86%
+Amp,AMP,$0.00210862,-1.21%
+UMA Protocol,UMA,$1.62,-1.98%
+Cartesi,CTSI,$0.15299333,0.76%
+DigiByte,DGB,$0.00689602,-3.24%
+Polymath Network,POLY,$0.12480000,-3.33%
+Alchemy Pay,ACHP,$0.02206219,-2.65%
+Kyber Network,KNC,$0.55976064,-1.12%
+iExec RLC,RLC,$1.38,-0.02%
+Nervos Network,CKB,$0.00293683,-1.37%
+Syscoin,SYS,$0.13441839,-0.22%
+Dogelon Mars,ELON,$0.00000017,-2.29%
+OMG Network,OMG,$0.66030951,-1.15%
+Nano,NANO,$0.68541193,-2.82%
+SPACE ID,ID,$0.31758356,0.36%
+MetisDAO,METIS,$20.76,0.94%
+Numeraire,NMR,$13.28,-0.92%
+Vulcan Forged PYR,PYR,$3.29,3.13%
+Steem,STEEM,$0.17834229,-2.74%
+NuCypher,NU,$0.05996004,-0.16%
+Chromia,CHR,$0.13375703,-0.43%
+Dent,DENT,$0.00079368,-1.12%
+Secret,SCRT,$0.34238836,-0.98%
+Smooth Love Potion,SLP,$0.00170509,-2.64%
+Civic,CVC,$0.08231999,-1.03%
